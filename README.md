@@ -6,5 +6,7 @@ Predict Customer Loyalty for Bank
 
 # Acknowledgments
 https://www.superdatascience.com/machine-learning/
+
 https://www.h2o.ai/
+
 R-Studio
